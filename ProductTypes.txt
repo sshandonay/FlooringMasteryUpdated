@@ -1,0 +1,6 @@
+Sheet Plastic,2.00,0.00
+Reclaimed Wood,0.00,49.99
+Linoleum,7.50,5.00
+Tile,15.00,25.00
+Carpet,10.00,15.50
+Bamboo,35.00,12.50
